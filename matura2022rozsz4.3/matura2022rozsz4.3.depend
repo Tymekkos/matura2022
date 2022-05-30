@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1653940057 source:c:\users\tymek\desktop\tymek\8loinformatykac++\matura2021szkola\matura2022rozsz4.3\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<algorithm>
+
